@@ -1,0 +1,2 @@
+# OsuSkinTemplate
+OsuSkinTemplate
